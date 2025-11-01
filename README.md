@@ -55,8 +55,7 @@ It focuses on understanding how **ratings, genres, and directors** influence box
 ---
 
 📸 Dashboard Preview
-
-![Dashboard Preview](<img width="1306" height="755" alt="01" src="https://github.com/user-attachments/assets/e3436c75-df45-4d7c-b15a-3ded5723f337" />)
+(<img width="1306" height="755" alt="01" src="https://github.com/user-attachments/assets/cb84806a-597e-4b85-b1b0-b9f1b864810d" />)
 
 
 ## 🛠️ Tools & Technologies
