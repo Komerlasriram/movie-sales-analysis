@@ -81,7 +81,7 @@ It focuses on understanding how **ratings, genres, and directors** influence box
 
 | Detail | Information |
 |---------|-------------|
-| 👨‍💻 Author | *[Komerla Sriram]* |
+| 👨‍💻 Author | * Komerla Sriram * |
 | 🏫 Institution | Innomatics Research Labs |
 | 📅 Completion | November 2025 |
 | 🗂️ Dataset Source | IMDb Movies Dataset |
