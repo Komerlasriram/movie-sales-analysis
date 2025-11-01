@@ -24,10 +24,9 @@ It focuses on understanding how **ratings, genres, and directors** influence box
 | File / Folder | Description |
 |----------------|-------------|
 | `dashboard/Movie Sales Analysis.pbix` | Power BI project file |
-| `data/IMDB-Movie-Data.csv` | Dataset used in the dashboard |
-| `reports/Movie Sales Analysis - Pdf.pdf` | Exported Power BI report |
-| `reports/Power BI Projects_Innomatics.pdf` | Project instructions (Innomatics) |
-| `README.md` | Documentation file |
+| `[data/IMDB-Movie-Data.csv](https://github.com/Komerlasriram/movie-sales-analysis/blob/main/IMDB-Movie-Data%20(1).csv)` | Dataset used in the dashboard |
+| `[reports/Movie Sales Analysis - Pdf.pdf](https://github.com/Komerlasriram/movie-sales-analysis/blob/main/Movie%20Sales%20Analysis.pbix)` | Exported Power BI report |
+| `[README.md](https://github.com/Komerlasriram/movie-sales-analysis/blob/main/README.md)` | Documentation file |
 
 ---
 
@@ -54,7 +53,9 @@ It focuses on understanding how **ratings, genres, and directors** influence box
 
 ---
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
+
+
 <img width="1306" height="755" alt="01" src="https://github.com/user-attachments/assets/cb84806a-597e-4b85-b1b0-b9f1b864810d" />
 
 
